@@ -33,12 +33,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RosmyGeorge/cucumberJS-Webdriver-IO.git"
+    "url": "git+https://github.com/RosmyGeorge/cucumber-WebdriverIO-Typescript.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RosmyGeorge/cucumberJS-Webdriver-IO/issues"
+    "url": "https://github.com/RosmyGeorge/cucumber-WebdriverIO-Typescript/issues"
   },
-  "homepage": "https://github.com/RosmyGeorge/cucumberJS-Webdriver-IO#readme"
+  "homepage": "https://github.com/RosmyGeorge/cucumber-WebdriverIO-Typescript#readme"
 }
