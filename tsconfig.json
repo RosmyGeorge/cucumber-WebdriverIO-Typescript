@@ -1,0 +1,22 @@
+  
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        // "strict": true,
+        "baseUrl": ".",
+        "paths": {
+            "*": [ "./*" ],
+            "src/*": ["./src"]
+        },
+        "types": ["node","@wdio/cucumber-framework", "@wdio/sync"],
+        "typeRoots": [
+            "./node_modules/@types"
+          ],
+    },
+    "include": [
+        "./step-definitions/**/*.ts","./support/*.ts"
+    ]
+}
