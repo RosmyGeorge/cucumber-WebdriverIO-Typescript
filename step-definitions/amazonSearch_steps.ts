@@ -12,5 +12,5 @@ import {homepage} from 'support/amazon-home-page'
     })
 
     Then('I get relevant information', function () {
-       expect(homepage.colorSearchResults).toBePresent
+       browser.getUrl().match("'\=Green\'")
     })
